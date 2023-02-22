@@ -1,3 +1,4 @@
+# Copyright Lukas Pellny 2023
 from picoboy import PicoBoy
 import time
 import random
